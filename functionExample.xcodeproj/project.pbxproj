@@ -16,6 +16,7 @@
 		AB5821AE27CE18EF008EA01F /* functionExampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB5821AD27CE18EF008EA01F /* functionExampleTests.swift */; };
 		AB5821B827CE18EF008EA01F /* functionExampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB5821B727CE18EF008EA01F /* functionExampleUITests.swift */; };
 		AB5821BA27CE18EF008EA01F /* functionExampleUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB5821B927CE18EF008EA01F /* functionExampleUITestsLaunchTests.swift */; };
+		AB5821C727CE2529008EA01F /* forgotPasswordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB5821C627CE2529008EA01F /* forgotPasswordViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		AB5821B327CE18EF008EA01F /* functionExampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = functionExampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AB5821B727CE18EF008EA01F /* functionExampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = functionExampleUITests.swift; sourceTree = "<group>"; };
 		AB5821B927CE18EF008EA01F /* functionExampleUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = functionExampleUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		AB5821C627CE2529008EA01F /* forgotPasswordViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = forgotPasswordViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				AB58219627CE18EE008EA01F /* AppDelegate.swift */,
 				AB58219827CE18EE008EA01F /* SceneDelegate.swift */,
 				AB58219A27CE18EE008EA01F /* ViewController.swift */,
+				AB5821C627CE2529008EA01F /* forgotPasswordViewController.swift */,
 				AB58219C27CE18EE008EA01F /* Main.storyboard */,
 				AB58219F27CE18EF008EA01F /* Assets.xcassets */,
 				AB5821A127CE18EF008EA01F /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AB5821C727CE2529008EA01F /* forgotPasswordViewController.swift in Sources */,
 				AB58219B27CE18EE008EA01F /* ViewController.swift in Sources */,
 				AB58219727CE18EE008EA01F /* AppDelegate.swift in Sources */,
 				AB58219927CE18EE008EA01F /* SceneDelegate.swift in Sources */,
